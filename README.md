@@ -24,6 +24,7 @@ run the code
 python3 pca_animation.py
 ```
 enter **file_name**, **window_size** and **trace starting time**
+
 **file_name**=xxx.csv
 **window_size**=(smaller than the trace total time)
 **trace staring time**=saperate enter hour, min and sec
